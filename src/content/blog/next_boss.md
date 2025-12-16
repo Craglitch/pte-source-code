@@ -5,8 +5,8 @@ pubDate: 'Nov 23 2025'
 heroImage: '../../assets/NextBoss.jpg'
 ---
 
-#### PENULIS : AMELIA
-#### SUMBER  : SUMAYAH 
+#### PENULIS : Amilia
+#### SUMBER  : Sumaiyyah 
 
 ![Image slot 1](../../assets/NextBOSS/team.jpg)
 
