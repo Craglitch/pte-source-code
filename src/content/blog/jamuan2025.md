@@ -6,8 +6,8 @@ pubDate: 'Dec 19 2025'
 heroImage: '../../assets/jamuan2025/thumbnail.png'
 ---
 
-#### Ditulis oleh Amilia Farzana.
-
+### Penulis : Amilia Farzana
+##### Sumber  : Nashifa, Sumaiyah, Aisya, Fawwaz
 ![Image slot 1](../../assets/jamuan2025/makanan.jpg)
 Pada Hari Jumaat 19 Disember 2025 yang lalu, telah berlangsung satu Jamuan Akhir Tahun secara tertutup peringkat PTE SMK PENANTI yang dianjurkan dengan jayanya oleh pihak pentadbir bersama kerjasama para pelajar semester 1 dan semester 3 . Program ini diadakan sebagai tanda penghargaan terhadap komitmen dan usaha semua pihak sepanjang 
 pelaksanaan PTE serta sebagai penutup kepada 
