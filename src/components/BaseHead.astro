@@ -21,6 +21,7 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
 <link rel="icon" type="image/svg+xml" href="/finalTulisanWarnaHItam.png" />
+<link rel="apple-touch-icon" href="/finalTulisanWarnaHItam.png">
 <link rel="sitemap" href="/sitemap-index.xml" />
 <link
 	rel="alternate"
@@ -47,16 +48,8 @@ const { title, description, image = FallbackImage } = Astro.props;
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={new URL('/finalTulisanWarnaHItam.png', Astro.url)} />
+<meta property="og:image" content={new URL(image.src, Astro.url)} />
 <meta property="og:site_name" content="JPTE SMK Penanti" />
-
-<!-- Twitter -->
-<meta property="twitter:card" content="summary_large_image" />
-<meta property="twitter:url" content={Astro.url} />
-<meta property="twitter:title" content={title} />
-<meta property="twitter:description" content={description} />
-<meta property="twitter:image" content={new URL('/finalTulisanWarnaHItam.png', Astro.url)} />
-
 <!-- Structured Data for Google Logo -->
 <script type="application/ld+json">
 {
@@ -68,3 +61,12 @@ const { title, description, image = FallbackImage } = Astro.props;
   "description": "Portal rasmi Jawatankuasa Perwakilan Tingkatan Enam SMK Penanti"
 }
 </script>
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content={Astro.url} />
+<meta property="twitter:title" content={title} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image" content={new URL(image.src, Astro.url)} />
+
+
