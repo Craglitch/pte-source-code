@@ -39,7 +39,9 @@ const logoURL = new URL('/finalTulisanWarnaHItam.png', Astro.site);
 <meta property="og:url" content={Astro.url} />
 <meta property="og:title" content={title} />
 <meta property="og:description" content={description} />
-<meta property="og:image" content={new URL(image.src, Astro.url)} />
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:alt" content="A shiny red apple with a bite taken out" />
+<meta property="og:image" content={new URL("../assets/2025.jpg", Astro.url)} />
 <meta property="og:site_name" content="JPTE SMK Penanti" />
 
 <script type="application/ld+json" is:inline set:html={JSON.stringify({
