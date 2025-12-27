@@ -2,7 +2,7 @@
 title: 'Bengkel Koakademik'
 description: 'Lorem ipsum dolor sit amet'
 pubDate: 'Nov 21 2025'
-heroImage: '../../../public/Bengkel_Koakademik/picture_1.jpg'
+heroImage: '../../assets/ketrampilan/photo_2025-12-27_21-10-40.jpg'
 ---
 
 Cikgu Zalilah, seorang bekas guru di SMK Penanti, telah kembali ke sekolah tersebut untuk memberikan motivasi kepada pelajar Tingkatan Enam Semester 1.
