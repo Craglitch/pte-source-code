@@ -32,6 +32,16 @@ const logoURL = new URL('/finalTulisanWarnaHItam.png', Astro.site);
 <link rel="canonical" href={canonicalURL} />
 
 <title>{title}</title>
+<script type="application/ld+json" is:inline set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "JPTE SMK Penanti",
+  "url": "penanti-pte.vercel.app",
+  "description": description
+})}>
+</script>
+
+
 <meta name="title" content={title} />
 <meta name="description" content={description} />
 
@@ -43,15 +53,6 @@ const logoURL = new URL('/finalTulisanWarnaHItam.png', Astro.site);
 <meta property="og:image:alt" content="A shiny red apple with a bite taken out" />
 <meta property="og:image" content={new URL("../assets/2025.jpg", Astro.url)} />
 <meta property="og:site_name" content="JPTE SMK Penanti" />
-
-<script type="application/ld+json" is:inline set:html={JSON.stringify({
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "JPTE SMK Penanti",
-  "url": Astro.site,
-  "description": description
-})}>
-</script>
 
 
 <meta property="twitter:card" content="summary_large_image" />
