@@ -5,10 +5,11 @@ pubDate: 'Dec 12 2025'
 heroImage: '../../../public/mlbb/poster.jpg'
 ---
 
-##### Ditulis oleh Amelia. 
+##### PENULIS : AMILIA FARZANA
+##### SUMBER  : CIKGU PERANIKA
+ 
 
-
-Pada 12 Disember 2025 (Jumaat), telah berlangsung satu pertandingan Mobile Legends: Bang Bang (MLBB) sempena Majlis Penutupan ICTTHON Peringkat Sekolah Menengah Kebangsaan Penanti yang bertempat di Dewan Al-Ghazali. Program ini dianjurkan bagi memberi pendedahan kepada para pelajar terhadap dunia e-sukan di samping menggalakkan penggunaan teknologi digital secara positif dan beretika.
+Pada 12 Disember 2025 (Hari Jumaat), telah berlangsung satu pertandingan Mobile Legends: Bang Bang (MLBB) sempena Majlis Penutupan ICTTHON Peringkat Sekolah Menengah Kebangsaan Penanti yang bertempat di Dewan Al-Ghazali. Program ini dianjurkan bagi memberi pendedahan kepada para pelajar terhadap dunia e-sukan di samping menggalakkan penggunaan teknologi digital secara positif dan beretika.
 Seawal program bermula, suasana di Dewan Al-Ghazali amat meriah dengan kehadiran para pelajar dan guru yang hadir bagi menyaksikan pertandingan tersebut. 
 ![image pertama](../../../public/mlbb/Poster.jpg)
 Pertandingan MLBB ini mendapat sambutan yang sangat menggalakkan apabila disertai oleh beberapa pasukan pelajar yang menunjukkan semangat berpasukan dan daya saing yang tinggi.
