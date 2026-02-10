@@ -7,6 +7,9 @@ import robotsTxt from 'astro-robots-txt';
 export default defineConfig({
 	site: 'https://penanti-pte.vercel.app', // Change to your repo name
 	output: 'static', // Remove adapter for simplicity
+  server: {
+    allowedHosts: ['localhost', '28d808e763d8.ngrok-free.app'],
+  },
 	integrations: [
     mdx(), 
     sitemap(),

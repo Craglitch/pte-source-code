@@ -2,6 +2,7 @@
 import BaseHead from '../components/BaseHead.astro';
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
+import "../styles/global.css"
 import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 ---
 
@@ -9,6 +10,7 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
 <html lang="en">
   <head>
     <meta property="og:site_name" content="Link preview site name">
+    <script src="https://cdn.tailwindcss.com"></script>
 		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
 	</head>
 	<body>
@@ -27,6 +29,17 @@ import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
           <img src="2025.jpg" alt="2025 pte penanti"> 
         </div>
       </div>
+      <br>
+      <h4 class="text-purple-100"> <marquee direction="left">Marketplace Exco Keusahawanan </marquee>
+      </h4>
+      <div style="position: relative; width: 100%; height: 0; padding-top: 141.4286%; 
+                  padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; 
+                  border-radius: 8px; will-change: transform;">
+        <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+          src="https://www.canva.com/design/DAG8ZM-6sjM/HByoQugFm6xFI9BMSBUdpw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+        </iframe>
+      </div>
+      <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG8ZM-6sjM&#x2F;HByoQugFm6xFI9BMSBUdpw&#x2F;view?utm_content=DAG8ZM-6sjM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
     		</main>
         <Footer /> <!-- src/components/Footer.astro -->
 	</body>
